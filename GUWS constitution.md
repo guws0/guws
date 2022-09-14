@@ -13,7 +13,7 @@
 	1.	The GUWS discord server is the primary social space of GUWS and partially defines membership (further explained in clause 4.4). As per article 3, it is where events and activities will be announced from
 	2.	The GUWS president shall be the owner of the server (and will be transferred ownership if they aren’t already such)
 	3.	Server moderation will be the responsibility of all committee members
-	4.	Rules of the server must be followed by all members, and must be accepted in order to participate in the server (thanks to discord' Rules Screening feature)
+	4.	Rules of the server must be followed by all members, and must be accepted in order to participate in the server (thanks to discord's Rules Screening feature)
 5.	**DONATIONS**
 	1.	The society shall take donations through our [Ko-fi page](https://ko-fi.com/guws0)
 	2.	Donations are not required for membership, nor give you greater voting power in the society
