@@ -22,8 +22,7 @@
 	5.	Donations will be used to improve the society, be that through buying TTRPG books to play together, commissioning artwork, or a plethora of other things
 	6.	Anything bought with society funds shall belong to the society. Not the president, nor treasurer, nor any other individual
 		1.	Despite the president looking after material possession during their term, they MUST be returned if they are voted out
-		2.	A record of possessions bought by the society shall be kept in our GitHub repository to allow all members an easy reference. The committee shall be responsible for ensuring this list is not tampered with.
-		3.	Should an outgoing-president fail to return these items, the SRC will be involved to ensure these are returned
+		2.	A record of possessions bought by the society shall be kept in our GitHub repository to allow all members an easy reference. The committee shall be responsible for ensuring this list is not tampered with
 6.	**MEMBERSHIP**
 	1.	Full membership shall be open to registered students of Glasgow University only
 	2.	Non-students may join as associate members (entirely optional). Associate members have no voting rights
