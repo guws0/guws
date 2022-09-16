@@ -1,5 +1,5 @@
 # Constitution of the Glasgow University Worldbuilding & Storytelling society (GUWS)
-*Last updated: 2022-08-31* v0.1
+*Last updated: 2022-08-31* v0.1.1
 
 *note*: this constitution is broken down into articles (1st number), clauses (2nd number), and subarticles (3rd number). i.e., the first role of the president is article 10 clause 2 subarticle 1, or a10.2.1
 
