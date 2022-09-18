@@ -1,5 +1,5 @@
 # Constitution of the Glasgow University Worldbuilding & Storytelling society (GUWS)
-*Last updated: 2022-08-31* v0.1.1
+*Last updated: 2022-09-18* v0.2
 
 *note*: this constitution is broken down into articles (1st number), clauses (2nd number), and subarticles (3rd number). i.e., the first role of the president is article 10 clause 2 subarticle 1, or a10.2.1
 
@@ -10,7 +10,7 @@
 3.	**ACTIVITIES**
 	1.	GUWS will host an array of activities centred around worldbuilding and storytelling, including but not limited to; a book club, narrative-focused collaborative roleplaying games, collaborative worldbuilding events, movie nights, and other such events. Activities will be held and/or organised with the aid of the GUWS discord server
 4.	**GUWS DISCORD SERVER**
-	1.	The GUWS discord server is the primary social space of GUWS and partially defines membership (further explained in clause 4.4). As per article 3, it is where events and activities will be announced from
+	1.	The GUWS discord server is the primary social space of GUWS. It is where events and activities will be announced from
 	2.	The GUWS president shall be the owner of the server (and will be transferred ownership if they aren’t already such)
 	3.	Server moderation will be the responsibility of all committee members
 	4.	Rules of the server must be followed by all members, and must be accepted in order to participate in the server (thanks to discord's Rules Screening feature)
@@ -39,7 +39,7 @@
 	8.	All elections must be held by secret ballot
 	9.	All office bearers shall be registered students at the University of Glasgow and shall not have opted out of SRC representation under the Education Act 1994
 	10.	The AGM, at which office bearers shall be elected and where the societies accounts shall be submitted and approved by the membership, shall be called with no less than a weeks' notice to the membership
-	11.	Resignations from the Committee shall be instituted by a letter of resignation to the secretary of the society. In the case of the resignation of the secretary, resignation may be instituted by a letter to the president
+	11.	Resignations from the Committee shall be instituted by a letter of resignation to the vice president of the society. In the case of the resignation of the vice president, resignation may be instituted by a letter to the president
         1.	A notice of one week must be given for resignation. That week shall be used to prepare for a hand-over of the position, and for scheduling an EGM to elect someone else to that position
 8.	**CONSTITUTIONAL AMENDMENTS**
 	1.	The membership may make constitutional amendments at the AGMs and EGMs
@@ -47,11 +47,12 @@
 		1.	These must take place no less than 3 days after they have been announced
 	3.	Additionally, on receipt of a petition signed by 25% of the membership, EGMs can be demanded
 		1.	Similarly, these must take place no less than 3 days after they have been demanded
-	3.	Constitutional structure, formatting, spelling, punctuation, and grammar may be adjusted without vote, however meaningful content (words, phrasing, etc.) must only be changed with a vote from the membership
+		2.	Should the membership deem the current committee inadequate, corrupt, or malicious, they may hold a vote to depose them and strip them of their power. An EGM with this kind of vote shall be organised by the membership themselves, and shall require a vote of 50% of the society's members to pass
+	4.	Constitutional structure, formatting, spelling, punctuation, and grammar may be adjusted without vote, however meaningful content (words, phrasing, etc.) must only be changed with a vote from the membership
 9.	**COMPLAINTS PROCEDURE**
 	1.	Unofficial complaints may be made to the committee at any time, verbally or in writing
 	2.	Official complaints
-		1.	Shall be made to the Secretary (or a committee member unnamed in the complaint, if preferred)
+		1.	Shall be made to the Vice President (or a committee member unnamed in the complaint, if preferred)
 		2.	The committee (or unnamed committee members, if preferred) shall form a sub-committee to investigate a suitable course of action
 		3.	This shall take no more than 7 working days
 		4.	The agreed upon action shall be sent to the complainant and will be carried out
@@ -68,18 +69,20 @@
 		3.	Shall chair committee meetings
 		4.	Shall administer the society Ko-fi page 
 		5.	Shall assist the Treasurer in managing the society PayPal account
-	3.	Secretary
+	3.	Vice President
 		1.	Shall receive complaints, unless the complainant would prefer to contact someone else
-		2.	Shall book rooms for society purposes
-		4.	Shall aid other committee members if required
-	4.	Treasurer
+		2.	Shall aid other committee members if required
+	4.	Secretary
+		1.	Shall book rooms for society purposes
+		2.	Shall coordinate in-person events
+	5.	Treasurer
 		1.	Shall maintain a record of income and expenses
 		3.	Shall be responsible for the bank account and keeping of bank statements
 		4.	Shall make a financial report public to the members at the end of each academic year
-		5.	Shall manage the society PayPal account
+		5.	Shall co-manage the society PayPal account
 11.	 **COMMITTEE MEETINGS**
 	1.	Committee meetings will be held as and when required, usually once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
-	2.	Committee meetings can be held in person (at a formally booked or informal venue) or online (using the server’s (see article 11) committee voice channel, or through other means
+	2.	Committee meetings can be held in person (at a formally-booked or informal venue) or online (using the server’s committee voice channel, or through other means
 12.	**DOCUMENT STORAGE**
 	1.	All society documents shall be stored within a GitHub respository
 		1.	Documents include this constitution, meeting minutes, logos, banners, and any similar non-private documents that are useful for the membership to access
