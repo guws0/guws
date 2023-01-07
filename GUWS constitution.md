@@ -1,5 +1,5 @@
 # Constitution of the Glasgow University Worldbuilding & Storytelling society (GUWS)
-*Last updated: 2022-09-18* v0.2
+*Last major update: 2022-09-18* v0.2
 
 *note*: this constitution is broken down into articles (1st number), clauses (2nd number), and subclauses (3rd number). i.e., the first role of the president is article 10 clause 2 subclause 1, or a10.2.1
 
@@ -67,7 +67,7 @@
 		1.	Shall own the GUWS discord server
 		2.	Shall coordinate and manage the society
 		3.	Shall chair committee meetings
-		4.	Shall administer the society Ko-fi page 
+		4.	Shall administrate the society Ko-fi page 
 		5.	Shall assist the Treasurer in managing the society PayPal account
 	3.	Vice President
 		1.	Shall receive complaints, unless the complainant would prefer to contact someone else
