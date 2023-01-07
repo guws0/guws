@@ -10,7 +10,7 @@
 3.	**ACTIVITIES**
 	1.	GUWS will host an array of activities centred around worldbuilding and storytelling, including but not limited to; a book club, narrative-focused collaborative roleplaying games, collaborative worldbuilding events, movie nights, and other such events. Activities will be held and/or organised with the aid of the GUWS discord server
 4.	**GUWS DISCORD SERVER**
-	1.	The GUWS discord server is the primary social space of GUWS. It is where events and activities will be announced from
+	1.	The [GUWS discord server](https://discord.gg/BmGFA3KksK) is the primary social space of GUWS. It is where events and activities will be announced from
 	2.	The GUWS president shall be the owner of the server (and will be transferred ownership if they aren’t already such)
 	3.	Server moderation will be the responsibility of all committee members
 	4.	Rules of the server must be followed by all members, and must be accepted in order to participate in the server (thanks to discord's Rules Screening feature)
@@ -27,7 +27,8 @@
 	1.	Full membership shall be open to registered students of Glasgow University only
 	2.	Non-students may join as associate members (entirely optional). Associate members have no voting rights
 	3.	Associate members (non-students) shall not account for more than 20% of the total membership
-	4.	Society membership is defined by full matriculation at Glasgow University and membership registration on [our page of the src site](https://www.glasgowunisrc.org/organisation/guws)
+	4.	Society membership is defined by full matriculation at Glasgow University and membership of [our discord server](https://discord.gg/BmGFA3KksK).
+		1.	Registration on [our page of the src site](https://www.glasgowunisrc.org/organisation/guws) is preferred, however does not define membership.
 7.	**GOVERNANCE**
 	1.	The society shall be under the control of membership. Society bank accounts must always be under the control of the CURRENT treasurer and president
 	2.	The Business of the society shall be conducted by an elected committee of full members
@@ -80,6 +81,8 @@
 		3.	Shall be responsible for the bank account and keeping of bank statements
 		4.	Shall make a financial report public to the members at the end of each academic year
 		5.	Shall co-manage the society PayPal account
+	6.	Events Officer
+		1.	Shall organise and run monthly events (such as jackbox, presentation night, movie night, etc.)
 11.	 **COMMITTEE MEETINGS**
 	1.	Committee meetings will be held as and when required, usually once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
 	2.	Committee meetings can be held in person (at a formally-booked or informal venue) or online (using the server’s committee voice channel, or through other means
