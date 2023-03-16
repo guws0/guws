@@ -69,7 +69,7 @@
 		2.	Shall coordinate and manage the society
 		3.	Shall chair committee meetings
 		4.	Shall administrate the society Ko-fi page 
-		5.	Shall assist the Treasurer in managing the society PayPal account
+		5.	Shall assist the Treasurer in managing the society Stripe account
 	3.	Vice President
 		1.	Shall receive complaints, unless the complainant would prefer to contact someone else
 		2.	Shall aid other committee members if required
@@ -80,7 +80,7 @@
 		1.	Shall maintain a record of income and expenses
 		3.	Shall be responsible for the bank account and keeping of bank statements
 		4.	Shall make a financial report public to the members at the end of each academic year
-		5.	Shall co-manage the society PayPal account
+		5.	Shall co-manage the society Stripe account
 11.	 **COMMITTEE MEETINGS**
 	1.	Committee meetings will be held as and when required, usually once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
 	2.	Committee meetings can be held in person (at a formally-booked or informal venue) or online (using the server’s committee voice channel, or through other means
