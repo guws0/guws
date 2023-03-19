@@ -84,7 +84,7 @@
 	6.	Events Officer
 		1.	Shall organise and run monthly events (such as jackbox, presentation night, movie night, etc.)
 11.	 **COMMITTEE MEETINGS**
-	1.	Committee meetings will be held as and when required, usually once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
+	1.	Committee meetings will be held as and when required, peferably once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
 	2.	Committee meetings can be held in person (at a formally-booked or informal venue) or online (using the server’s committee voice channel, or through other means
 12.	**DOCUMENT STORAGE**
 	1.	All society documents shall be stored within a GitHub respository
