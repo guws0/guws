@@ -82,7 +82,7 @@
 		4.	Shall make a financial report public to the members at the end of each academic year
 		5.	Shall co-manage the society Stripe account
 11.	 **COMMITTEE MEETINGS**
-	1.	Committee meetings will be held as and when required, usually once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
+	1.	Committee meetings will be held as and when required, preferably once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
 	2.	Committee meetings can be held in person (at a formally-booked or informal venue) or online (using the server’s committee voice channel, or through other means
 12.	**DOCUMENT STORAGE**
 	1.	All society documents shall be stored within a GitHub respository
