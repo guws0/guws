@@ -1,8 +1,6 @@
 # Constitution of the Glasgow University Worldbuilding & Storytelling society (GUWS)
 *Last major update: 2023-08-❓* v1.1
 
-*note*: this constitution is broken down into articles (1st number), clauses (2nd number), and subclauses (3rd number). i.e., the name of the society is article 1 clause 1 subclause 1, or 1.1.1
-
 1.	**NAME**
 	1.	Glasgow University Worldbuilding & Storytelling society (GUWS)
 
