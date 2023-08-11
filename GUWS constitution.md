@@ -3,7 +3,7 @@
 
 1.	**NAME**
 	1.	Glasgow University Worldbuilding & Storytelling society (GUWS)
-
+ 2.	
 2.	**PURPOSES**
 	1.	GUWS exists to provide students an outlet for creativity through worldbuilding and storytelling. We aspire to encourage learning about society, history, and culture, and will provide a social space for people of similar creative interests to gather
 
@@ -11,11 +11,13 @@
 	1.	GUWS will host an array of activities centred around worldbuilding and storytelling, potentially including but not limited to; a book club, roleplaying games, collaborative worldbuilding events, movie nights, and other such events
 	2.	Activities and events will be announced through the newsletter & [src page](https://www.glasgowunisrc.org/organisation/guws/). They may also be listed on the GUWS discord server
 
-4.	**GUWS DISCORD SERVER**
-	1.	The [GUWS discord server](https://discord.gg/BmGFA3KksK) is an online social space for GUWS
-	2.	The GUWS president shall be the owner of the server (and will be transferred ownership if they aren’t already such)
-	3.	Server moderation will be the responsibility of all committee members
-	4.	Rules of the server must be followed by all members, and must be accepted in order to participate in the server (thanks to discord's Rules Screening feature)
+4.	**CODE OF CONDUCT**
+	1.	At events, we are all bound to the [university's code of conduct](https://www.gla.ac.uk/myglasgow/senateoffice/policies/uniregs/regulations2020-21/feesandgeneral/studentsupportandconductmatters/reg33/)
+	2.	Additionally, we have some rules of our own:
+		1.	Don't be a bigot
+		2.	Try to respect and care for one another
+		3.	Don't make fun of others for things they can't control
+		4.	Assume good faith. Not everyone will be aware that saying X, Y, or Z is bigoted, so calmly informing them and helping them do better is a lot more helpful than getting mad.
 
 5.	**DONATIONS**
 	1.	The society shall take donations through our [Ko-fi page](https://ko-fi.com/guws0)
@@ -95,13 +97,19 @@
 	1.	Committee meetings will be held as and when required, preferably once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
 	2.	Committee meetings can be held in person (at a formally-booked or informal venue), online (using the server’s committee voice channel, or through other means
 
-12.	**DOCUMENT STORAGE**
+12.	**GUWS DISCORD SERVER**
+	1.	The [GUWS discord server](https://discord.gg/BmGFA3KksK) is an online social space for GUWS
+	2.	The GUWS president shall be the owner of the server (and will be transferred ownership if they aren’t already such)
+	3.	Server moderation will be the responsibility of all committee members
+	4.	Rules of the server must be followed by all members, and must be accepted in order to participate in the server (thanks to discord's Rules Screening feature)
+
+13.	**DOCUMENT STORAGE**
 	1.	All society documents shall be stored within a GitHub respository
 		1.	Documents include this constitution, meeting minutes, logos, banners, and any similar non-private documents that are useful for the membership to access
 		2.	All minutes will be anonymised
 
-13.	**DATA PROTECTION**
+14.	**DATA PROTECTION**
 	1.	The Society records personal information about its members (e.g. names, contact details etc) for the purposes of running the society (legitimate interest). This information will be held securely and only for as long as it is needed. The information will not be sold or otherwise passed on to third parties without individuals’ consent. Society members have the right to a copy of the information held about them on request, and to correct any inaccuracies in the information held
 
-14.	**EQUAL OPPORTUNITIES STATEMENT**
+15.	**EQUAL OPPORTUNITIES STATEMENT**
 	1.	The society shall provide and promote equal opportunities, whatever a person's race, colour, ethnic or national origin, religion, beliefs, sex, sexual orientation, gender identity, HIV status, age, physical or mental disability, state of health, appearance, status, family circumstances
