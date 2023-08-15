@@ -3,7 +3,6 @@
 
 1.	**NAME**
 	1.	Glasgow University Worldbuilding & Storytelling society (GUWS)
- 2.	
 2.	**PURPOSES**
 	1.	GUWS exists to provide students an outlet for creativity through worldbuilding and storytelling. We aspire to encourage learning about society, history, and culture, and will provide a social space for people of similar creative interests to gather
 
