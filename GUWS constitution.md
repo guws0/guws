@@ -3,6 +3,7 @@
 
 1.	**NAME**
 	1.	Glasgow University Worldbuilding & Storytelling society (GUWS)
+
 2.	**PURPOSES**
 	1.	GUWS exists to provide students an outlet for creativity through worldbuilding and storytelling. We aspire to encourage learning about society, history, and culture, and will provide a social space for people of similar creative interests to gather
 
@@ -14,9 +15,14 @@
 	1.	At events, we are all bound to the [university's code of conduct](https://www.gla.ac.uk/myglasgow/senateoffice/policies/uniregs/regulations2020-21/feesandgeneral/studentsupportandconductmatters/reg33/)
 	2.	Additionally, we have some rules of our own:
 		1.	Don't be a bigot
+			1.	Bigotry including but not limited to, homophobia, transphobia, racism, sexism, ableism, faith-based prejudice, etc.
 		2.	Try to respect and care for one another
 		3.	Don't make fun of others for things they can't control
 		4.	Assume good faith. Not everyone will be aware that saying X, Y, or Z is bigoted, so calmly informing them and helping them do better is a lot more helpful than getting mad.
+		5.	Try not to act in conflict with the society
+	3.	When these rules are violated, the committee shall decide the further course of action, including but not limited to requesting an apology, suspending membership, or revoking membership.
+	4.	In the event of serious incidents, the offense shall be referred to the University Senate.
+	5.	In the events of gender-based violence and sexual assault, we will seek specialist support (SRC Advise Centre) in order to resolve the issue. These will be treated with utmost care and resolved in a way amenable to the victim.
 
 5.	**DONATIONS**
 	1.	The society shall take donations through our [Ko-fi page](https://ko-fi.com/guws0)
@@ -42,11 +48,12 @@
 	5.	Office bearers shall be elected by the membership at the Annual General Meeting (AGM) or at an Extraordinary General Meeting (EGM) called to elect a replacement during the event of a vacancy
 	6.	Any full member of the society is entitled to stand for the office bearer positions
 	7.	No full member should be barred from standing for office in the society unless the position is in existence for a particular group or community of interest
-	8.	All elections must be held by secret ballot
+	8.	All elections must be held by secret ballot & the procedures will be made available to candidates in advance
 	9.	All office bearers shall be registered students at the University of Glasgow and shall not have opted out of SRC representation under the Education Act 1994
 	10.	The AGM, at which office bearers shall be elected and where the societies accounts shall be submitted and approved by the membership, shall be called with no less than a weeks' notice to the membership
 	11.	Resignations from the Committee shall be instituted by a letter of resignation to the secretary of the society. In the case of the resignation of the secretary, resignation may be instituted by a letter to the president
         12.	A notice of one week must be given for resignation. That week shall be used to prepare for a hand-over of the position, and for scheduling an EGM to elect someone else to that position
+	13.	There shall be a transitionary period of no more than a month after the election of a new president in which the outgoing president shall prepare their successor
 
 8.	**CONSTITUTIONAL AMENDMENTS**
 	1.	The membership may make constitutional amendments at the AGMs and EGMs
@@ -94,6 +101,8 @@
 		2.	Shall aid other committee members if required
 		3.	Shall help evaluate accessibility of events
 		4.	Shall aid the membership on matters for which they are able
+	7.	Book Club Officer
+		1. Shall manage and facilitate the society book club
 
 11.	 **COMMITTEE MEETINGS**
 	1.	Committee meetings will be held as and when required, preferably once a month but less frequently if necessary. It will be up to the collective committee to decide a date and time that suits all
