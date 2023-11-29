@@ -70,11 +70,11 @@
 	2.	Official complaints
 		1.	Shall be made to the Welfare Officer (or a committee member unnamed in the complaint, if preferred)
 		2.	The committee (or unnamed committee members, if preferred) shall form a sub-committee to investigate a suitable course of action
-		3.	This shall take no more than 7 working days
+		3.	This shall take no more than 5 working days
 		4.	The agreed upon action shall be sent to the complainant and will be carried out
 		5.	If desired, this action can be reviewed by someone not involved in the original investigation
 			1.	This individual (a member of the society) shall be collaboratively decided upon by the committee & complainant, of course with the individual's consent
-	3.	After a month, records of complaints shall be anonymised
+	3.	Records of complaints shall be anonymised
 
 10.	**COMMITTEE ROLES** 
 	1.	All Committee Members
