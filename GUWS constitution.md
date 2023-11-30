@@ -44,7 +44,7 @@
 	2.	The Business of the society shall be conducted by an elected committee of full members
 	3.	Any member who is a registered student of the University of Glasgow shall have full voting rights at General Meetings of the Club/Society. Associate members have no voting rights
 	4.	The society shall have at least four office-bearers: the president, secretary, treasurer, & welfare officer.
-		1.	For the purposes of HEAR, the welfare officer shall also be the vice president. This grants them no greater powers than they have as welfare officer.
+		1.	The welfare officer can additionally be another position other than the welfare officer.
 	5.	Office bearers shall be elected by the membership at the Annual General Meeting (AGM) or at an Extraordinary General Meeting (EGM) called to elect a replacement during the event of a vacancy
 	6.	Any full member of the society is entitled to stand for the office bearer positions
 	7.	No full member should be barred from standing for office in the society unless the position is in existence for a particular group or community of interest
