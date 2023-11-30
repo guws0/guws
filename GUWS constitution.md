@@ -1,5 +1,5 @@
 # Constitution of the Glasgow University Worldbuilding & Storytelling society (GUWS)
-*Last major update: 2023-08-15* v1.1
+*Last major update: 2023-11-30* v2.0
 
 1.	**NAME**
 	1.	Glasgow University Worldbuilding & Storytelling society (GUWS)
