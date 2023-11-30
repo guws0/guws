@@ -84,13 +84,15 @@
 		1.	Shall own the GUWS discord server
 		2.	Shall coordinate and manage the society
 		3.	Shall chair committee meetings
-		4.	Shall administrate the society Ko-fi page 
-		5.	Shall assist the Treasurer in managing the society Stripe account
+		4.	Shall assist the Treasurer in managing the society Stripe account
 	3.	Vice President
-		1.	This role exists ceremonially for HEAR purposes only. The vice president and welfare officer are the same role.
+		1.	Shall assist the president
+		2.	Shall coordinate their own projects
 	4.	Secretary
 		1.	Shall book rooms for society purposes
 		2.	Shall coordinate in-person events, including monthly events
+		3.	Shall administrate the society Ko-fi page
+		4.	Shall help coordinate general society function
 	5.	Treasurer
 		1.	Shall maintain a record of income and expenses
 		3.	Shall be responsible for the bank account and keeping of bank statements
