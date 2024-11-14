@@ -1,5 +1,5 @@
 # Constitution of the Glasgow University Worldbuilding & Storytelling society (GUWS)
-*Last major update: 2024-09-08* v3.0
+*Last major update: 21-10-2024* v3.1
 
 1. 	**NAME**  
         1.1. Glasgow University Worldbuilding & Storytelling society (GUWS)  
@@ -84,8 +84,8 @@
             8.5.2. Shall aid other committee members if required  
             8.5.3. Shall help evaluate accessibility of events  
             8.5.4. Shall aid the membership on matters for which they are able  
-        8.6. Book Club Officer  
-            8.6.1. Shall manage and facilitate the society book club, if and when such a club exists  
+        8.6. Ordinary Committee Member  
+            8.6.1. Shall assist the committee in the general running of the society and its events, filling roles as needed.  
 
 10. **CONSTITUTIONAL AMENDMENTS**  
         9.1. The membership may make constitutional amendments at the AGMs and EGMs  
