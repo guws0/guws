@@ -15,4 +15,4 @@ Proposed amendment:
 Unanimous yes vote
 
 ### OCM:
-Bonnie ran unopposed, was unanimously voted into committee as Ordinary Committee Member.
+Candidate ran unopposed, was unanimously voted into committee as Ordinary Committee Member.
