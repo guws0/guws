@@ -3,4 +3,4 @@ Welcome to our GitHub page! Here you can find our constitution and the changes i
 
 Our logo is designed by [Pavizi](https://pavizi.tumblr.com/)
 
-We are currently unlicensed, however other societies are welcome and encouraged to steal articles from our constitution. I (GUWS pres #1) would love to talk about suggestions and thoughts you have regarding it :]
+We are SRC affiliated, and other societies are welcome and encouraged to steal articles from our constitution. I (GUWS pres #1) would love to talk about suggestions and thoughts you have regarding it :]
